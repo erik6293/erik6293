@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm Erik!### Hi there 👋
 
 <!--
 **erik6293/erik6293** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
